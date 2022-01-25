@@ -9,3 +9,8 @@
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
+
+.responsive {
+  width: 10%;
+  height: auto;
+}
